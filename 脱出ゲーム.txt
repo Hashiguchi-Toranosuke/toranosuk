@@ -1,2 +1,4 @@
 脱出ゲーム
 島津
+・git add
+・git commit
