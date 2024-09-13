@@ -2,3 +2,4 @@
 島津
 ・git add
 ・git commit
+・git remove
